@@ -5,4 +5,4 @@ I have learned various programming languages and tools through online courses an
 </p>
 
 <h1 align="center">More on my website:</h1>
-<h2 align="center"> />/> [CLICK HERE!](https://github.com/Mestuq?tab=repositories) /</<
+<h2 align="center"> \>\> [CLICK HERE!](https://github.com/Mestuq?tab=repositories) \<\< </h2>
